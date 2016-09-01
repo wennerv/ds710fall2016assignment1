@@ -1,8 +1,18 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions.  Use GitHub to submit the resulting text file.
 1. What is your name?
+Tori Wenner
 2. Why are you interested in Data Science?
+I've alway been interested in mathematics. My undergraduate degree is in Mathematics with an Emphasis in Teaching. Right before I graduated, I realized I didn't want
+to teach, and I really enjoyed statistics, so I applied for the Data Science program. I'm loving it so far! 
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I have taken DS 705 which uses R and in my undergrad I took Intro to C++ and Computer Programming for Math and Sciences, which was in Python. I use python a lot at work. I am
+currently working on a project which involves satellite imagery and we are using python to create convolutional neural networks. 
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+I have taken Intro to Probability and Statistics in my undergrad, and DS 705. I'm not using statistics currently, but I know that it will show up soon within my projects. 
 5.  Do you have other experience with R or Python?
+In my free time I do free videos/tutorials in R and Python. 
 6.  What do you hope to learn in this class?
+I want to be confident in using R and Python for analysis. I know a little right now, but I want to be very comfortable using them. 
 7.  Is there anything else you would like to share with us?
+I graduated from UWEC in Spring of 2016 with a BS in Mathematics with an Emphasis in Teaching. I am currently a Cloud Engineer/Quantitative Data Analyst Intern
+at Thomson Reuters in Eagan, MN. 
